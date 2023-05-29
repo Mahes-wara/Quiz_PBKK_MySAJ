@@ -45,7 +45,7 @@
 					</div>
 					<div class="footer-bottom d-flex justify-content-between align-items-center flex-wrap">
 						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            <p class="footer-text m-0"><span>&copy; <?= date('Y') ?> Bus Ticket Booking System - Developed by Dope developers </span> </p>
+            <p class="footer-text m-0"><span>&copy; <?= date('Y') ?> Bus Ticket Booking System - Developed by Ezekiel Mashal W </span> </p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 			<!-- Visit freesourcecodes.buzzfor more projects -->
 						<!-- <div class="footer-social d-flex align-items-center">

@@ -15,7 +15,7 @@
 		<meta charset="UTF-8">
 		<!-- Visit freesourcecodes.buzzfor more projects -->
 		<!-- Site Title -->
-		<title>BUS TICKET BOOKING</title>
+		<title>MySAJ</title>
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 		<!--
 		CSS
@@ -58,10 +58,10 @@
 					<div class="banner-content col-lg-7 col-md-12">
 						<!-- <h4  class="combined">Official Ticket Guarantee</h4> -->
 							<h2 class="text-white" >
-							Bus Ticket Booking System		
+							My Super Air Jet	
 							</h2>
 						<p class="text-white" >
-						Now finding bus tickets is easier, you can order online at BTBS. No need to bother going to the terminal or agent office, now you can buy tickets easily. Fast and Easy Booking. Free to Choose Seats. Cheapest Every Day. 24/7 Customer Service. All Classes and Routes.						</p>
+						Membuat check-in dan pesan ticket lebih mudah dengan MySAJ !</p>
 						<a href="<?php echo base_url() ?>tiket" class="btn btn-danger text-uppercase">Search Tickets</a>
 					</div>
 				</div>
