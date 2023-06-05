@@ -72,7 +72,7 @@
 			<div class="container">
 				<div class="row d-flex justify-content-center">
 					<div class="col-md-8 pb-40 header-text">
-						<h1>STEPS TO BOOK A BUS TICKET</h1>
+						<h1>STEPS TO BOOK Super Air Jet TICKET</h1>
 					</div>
 				</div>
 				<div class="row">
@@ -89,7 +89,7 @@
 					<div class="col-lg-4 col-md-6">
 						<div class="single-service">
 							<img class="img-fluid" src="<?php echo base_url() ?>assets/frontend/img/b2.png" width="150" height="150" alt="">
-							<h4>Choose your bus and seat</h4>
+							<h4>Choose your Flight and seat</h4>
 							<p>
 							Select bus, seat, place of departure, destination, fill in passenger details and click 'Payment'
 							</p>
