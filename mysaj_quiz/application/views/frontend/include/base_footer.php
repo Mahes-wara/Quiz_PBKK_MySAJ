@@ -59,7 +59,7 @@
 			</footer>
 			<div class="preloader">
 			<div class="loading">
-				<img src="<?php echo base_url('assets/frontend/img/preloader.gif') ?>" width="100">
+				<img src="<?php echo base_url('assets/frontend/img/preloader.gif') ?>" width="200">
 				<p>Please Wait...</p>
 			</div>
 		</div>	
