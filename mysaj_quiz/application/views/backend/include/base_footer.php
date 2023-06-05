@@ -1,7 +1,7 @@
 <footer class="sticky-footer bg-white">
 	<div class="container my-auto">
 		<div class="copyright text-center my-auto">
-			<span>&copy; <?= date('Y') ?> Bus Ticket Booking System - Developed by Dope developers </span>
+			<span>&copy; <?= date('Y') ?> MySAJ Ticketing System - Developed by Kelompok PBKK </span>
 		</div>
 	</div>
 </footer>
@@ -34,7 +34,7 @@
 </div>
 <div class="preloader">
 	<div class="loading">
-		<img src="<?= base_url('assets/frontend/img/preloader.gif') ?>" width="100">
+		<img src="<?= base_url('assets/frontend/img/preloader.gif') ?>" width="200">
 		<p>Please Wait...</p>
 	</div>
 </div>

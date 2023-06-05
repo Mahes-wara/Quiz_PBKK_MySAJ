@@ -7,9 +7,9 @@
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="<?= base_url('backend/home') ?>">
         <div class="sidebar-brand-icon rotate-n-15">
-          <i class="fas fa-bus"></i>
+          <i class="fas fa-plane"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">BTBS CI</div>
+        <div class="sidebar-brand-text mx-3">My SAJ</div>
       </a>
 
       <!-- Divider -->
@@ -21,11 +21,11 @@
           <i class="fas fa-fw fa-tachometer-alt"></i>
           <span>Dashboard </span></a>
           <a class="nav-link" href="<?= base_url() ?>backend/bus">
-            <i class="fas fa fa-bus"></i>
-            <span>Manage Bus</span></a>
+            <i class="fas fa fa-plane"></i>
+            <span>Manage SAJ</span></a>
             <a class="nav-link" href="<?= base_url() ?>backend/rute">
               <i class="fas fa fa-compass"></i>
-              <span>Manage Terminal</span></a>
+              <span>Manage Airport</span></a>
               <a class="nav-link" href="<?= base_url() ?>backend/jadwal">
                 <i class="fas fa fa-clipboard-list"></i>
                 <span>Manage Schedule</span></a>
